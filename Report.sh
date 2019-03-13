@@ -35,5 +35,3 @@ echo "Va pregatim raportul.." ;
 sleep 2s ;
 
 firefox /home/$homeuser/Desktop/Raport.html ; 
-
-
